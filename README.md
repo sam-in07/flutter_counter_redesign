@@ -4,4 +4,7 @@ A new Flutter project.
 
 ## Getting Started
 
-[![Watch the video](https://youtu.be/JVJSYYg4t5w)]
+## Demo Video
+
+[![Watch the demo](https://img.youtube.com/vi/JVJSYYg4t5w/0.jpg)](https://youtu.be/JVJSYYg4t5w)
+
