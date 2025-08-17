@@ -6,7 +6,6 @@ A new Flutter project.
 
 ## Demo Video
 
-[![Watch the demo](https://img.youtube.com/vi/JVJSYYg4t5w/0.jpg)](https://youtu.be/JVJSYYg4t5w)
 
 
 [![Watch the video](https://img.youtube.com/vi/JVJSYYg4t5w/0.jpg)](https://youtu.be/JVJSYYg4t5w)
